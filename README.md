@@ -10,8 +10,8 @@ Việc thay đổi background có thể làm tốn rất nhiều tài nguyên n�
 
 ### Input
 
-Hình ảnh, Video ghi lại hình người trong các cuộc họp trực tuyến.
+Hình ảnh, Video người dùng trong các cuộc họp trực tuyến và hình ảnh background người dùng muốn thay thế.
 
 ### Output
 
-Hình ảnh, Video đã được làm mờ background.
+Hình ảnh, Video đã được thay đổi background.
