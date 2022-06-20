@@ -1,6 +1,4 @@
-## CSC14116
-
-## Lập trình song song ứng dụng
+## CSC14116 - Lập trình song song ứng dụng
 
 ### Tổng quan
 
