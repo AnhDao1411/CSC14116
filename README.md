@@ -4,8 +4,8 @@
 Làm mờ hoặc thay đổi background(hậu cảnh) là một trong những ứng dụng cần thiết trong bối cảnh hậu đại dịch Covid, khi mà càng có nhiều cuộc họp được thực hiện trực tuyến mà người dùng muốn có một không gian họp riêng tư ngay trong chính căn phòng của mình.
 
 Việc thay đổi background gồm 2 bước chính:
- 1. Xác định khung viền bọc xung quanh người
- 2. Tùy theo làm mờ hay thay đổi background mà có thể nhân ma trận để làm mờ hoặc ghép hình người vào một khung cảnh khác
+ 1. Xác định khung viền bọc xung quanh người.
+ 2. Tùy theo làm mờ hay thay đổi background mà có thể nhân ma trận để làm mờ hoặc ghép hình người vào một khung cảnh khác.
 
 ### Động lực
 Chúng tối thấy việc thay đổi background khá thiết thực và được sử dụng nhiều trong thời đại công nghệ hiện nay. Bên cạnh đó công việc này cũng có thể phân ra thành các bước áp dụng được song song hóa, từ đó cải thiện tốc độ xử lý vấn đề. 
@@ -26,12 +26,14 @@ Hình ảnh, Video đã được thay đổi background.
 
 ### Hướng tiếp cận 
 Dựa trên 2 bước chính:
-1. Cài đặt quá trình feedforward với bộ trọng số đã huấn luyện của mô hình U-Net để giải quyết bài toán human segmentation. \
+1. Cài đặt quá trình feedforward với bộ trọng số đã huấn luyện của mô hình U-Net để giải quyết bài toán human segmentation.
+
    Các tầng layer chính: Conv2d, BatchNormalization, Activation('relu'), MaxPool2D, Conv2dTranspose. 
-2. Thay thế các pixel thuộc lớp background với hình ảnh người dùng muốn thay thế
+2. Thay thế các pixel thuộc lớp background với hình ảnh người dùng muốn thay thế.
  
-Tuần tự: viết code cho các layer sử dụng numpy \
-Song song: sử dụng numba để tối ưu hóa code tuần tự     
+Tuần tự: viết code cho các layer sử dụng numpy.
+
+Song song: sử dụng numba để tối ưu hóa code tuần tự.     
 
 ![zoom5](https://user-images.githubusercontent.com/47071155/174651030-3d2a6216-8f11-4ee7-953e-9dae594b5348.jpg)
 ![zoom5](https://user-images.githubusercontent.com/47071155/174651046-1113c81a-2350-48c7-a774-5df50772c8cf.jpg)
