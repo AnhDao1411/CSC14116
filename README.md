@@ -1,7 +1,8 @@
 ## CSC14116 - Lập trình song song ứng dụng
 
 ### Tổng quan
-Làm mở hoặc thay đổi background(hậu cảnh) là một trong những ứng dụng cần thiết trong bối cảnh hậu đại dịch Covid, khi mà càng có nhiều cuộc họp được thực hiện trực tuyến mà người dùng muốn có một không gian họp riêng tư ngay trong chính căn phòng của mình. \
+Làm mờ hoặc thay đổi background(hậu cảnh) là một trong những ứng dụng cần thiết trong bối cảnh hậu đại dịch Covid, khi mà càng có nhiều cuộc họp được thực hiện trực tuyến mà người dùng muốn có một không gian họp riêng tư ngay trong chính căn phòng của mình.
+
 Việc thay đổi background gồm 2 bước chính:
  1. Xác định khung viền bọc xung quanh người
  2. Tùy theo làm mờ hay thay đổi background mà có thể nhân ma trận để làm mờ hoặc ghép hình người vào một khung cảnh khác
