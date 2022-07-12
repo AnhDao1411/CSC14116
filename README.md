@@ -13,6 +13,7 @@
     <th class="tg-rk9a">Main task</th>
     <th class="tg-rk9a">Sub-task</th>
     <th class="tg-rk9a">Assignee</th>
+    <th class="tg-rk9a">Completion</th>
   </tr>
 </thead>
 <tbody>
@@ -21,14 +22,17 @@
     <td class="tg-9wq8" rowspan="3">Tìm hiểu phương pháp giải quyểt bài toán</td>
     <td class="tg-0pky">Tìm hiểu phương pháp xác định biên</td>
     <td class="tg-kgv7"><span style="color:#000">Cả nhóm</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
   </tr>
   <tr>
     <td class="tg-0pky">Viết báo cáo về phần giới thiệu</td>
     <td class="tg-kgv7"><span style="color:#000">Võ Ngọc Minh</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
   </tr>
   <tr>
     <td class="tg-0pky">Viết báo cáo về hướng tiếp cận</td>
     <td class="tg-kgv7"><span style="color:#000">Nguyễn Thị Anh Đào</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
   </tr>
 </tbody>
 <tbody>
@@ -37,10 +41,26 @@
     <td class="tg-9wq8" rowspan="2">Thiết kế và viết code tuần tự cho feedforward</td>
     <td class="tg-0pky">Activation("relu"), MaxPool2D</td>
     <td class="tg-kgv7"><span style="color:#000">Nguyễn Thị Anh Đào</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
   </tr>
   <tr>
     <td class="tg-0pky">Conv2d, Conv2dTranspose, BatchNormalization</td>
     <td class="tg-kgv7"><span style="color:#000">Võ Ngọc Minh</span></td>
+    <td class="tg-kgv7"><span style="color:#000">33%</span></td>
+  </tr>
+</tbody>
+<tbody>
+  <tr>
+    <td class="tg-9hil" rowspan="2">Tuần 8</td>
+    <td class="tg-9wq8" rowspan="2">Thiết kế và viết code song song, hoàn thành tuần 7</td>
+    <td class="tg-0pky">Tuần tự: Conv2dTranspose, BatchNormalization, Concatenation</td>
+    <td class="tg-kgv7"><span style="color:#000">Nguyễn Thị Anh Đào</span></td>
+    <td class="tg-kgv7"><span style="color:#000">66%</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Tuần tự: Activation("sigmoid") ; Song song: Activation("relu"), MaxPool2D</td>
+    <td class="tg-kgv7"><span style="color:#000">Võ Ngọc Minh</span></td>
+    <td class="tg-kgv7"><span style="color:#000">66%</span></td>
   </tr>
 </tbody>
 </table>
