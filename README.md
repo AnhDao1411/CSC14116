@@ -55,12 +55,12 @@
     <td class="tg-9wq8" rowspan="2">Thiết kế và viết code song song, hoàn thành tuần 7</td>
     <td class="tg-0pky">Tuần tự: Conv2dTranspose, BatchNormalization, Concatenation</td>
     <td class="tg-kgv7"><span style="color:#000">Nguyễn Thị Anh Đào</span></td>
-    <td class="tg-kgv7"><span style="color:#000">66%</span></td>
+    <td class="tg-kgv7"><span style="color:#000">90%</span></td>
   </tr>
   <tr>
     <td class="tg-0pky">Tuần tự: Activation("sigmoid") ; Song song: Activation("relu"), MaxPool2D</td>
     <td class="tg-kgv7"><span style="color:#000">Võ Ngọc Minh</span></td>
-    <td class="tg-kgv7"><span style="color:#000">66%</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
   </tr>
 </tbody>
 </table>
