@@ -79,4 +79,4 @@
 </tbody>
 </table>
 
-- Link Google Colab: https://colab.research.google.com/drive/1p03KkfiW_wQM5hA4Fo2nUnjsj_OnmboX?usp=sharing
+- Link Google Colab: https://colab.research.google.com/drive/1-0eELNj4OzvGRommAJqRQeps2ZqqMvG8?usp=sharing
