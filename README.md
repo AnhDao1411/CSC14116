@@ -63,6 +63,20 @@
     <td class="tg-kgv7"><span style="color:#000">100%</span></td>
   </tr>
 </tbody>
+<tbody>
+  <tr>
+    <td class="tg-9hil" rowspan="2">Tuần 9</td>
+    <td class="tg-9wq8" rowspan="2">Thiết kế và viết code song song, hoàn thành tuần 8</td>
+    <td class="tg-0pky">Tuần tự: Conv2dTranspose, Huấn luyện với số epoch cao hơn</td>
+    <td class="tg-kgv7"><span style="color:#000">Nguyễn Thị Anh Đào</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Song song:Activation("sigmoid"), Conv2D</td>
+    <td class="tg-kgv7"><span style="color:#000">Võ Ngọc Minh</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+  </tr>
+</tbody>
 </table>
 
 - Link Google Colab: https://colab.research.google.com/drive/1p03KkfiW_wQM5hA4Fo2nUnjsj_OnmboX?usp=sharing
