@@ -67,12 +67,12 @@
   <tr>
     <td class="tg-9hil" rowspan="2">Tuần 9</td>
     <td class="tg-9wq8" rowspan="2">Thiết kế và viết code song song, hoàn thành tuần 8</td>
-    <td class="tg-0pky">Tuần tự: Conv2dTranspose, Huấn luyện với số epoch cao hơn</td>
+    <td class="tg-0pky">Song song: Conv2d, Conv2dTranspose, Batch Normalization</td>
     <td class="tg-kgv7"><span style="color:#000">Nguyễn Thị Anh Đào</span></td>
-    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+    <td class="tg-kgv7"><span style="color:#000">80%</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Song song:Activation("sigmoid"), Conv2D</td>
+    <td class="tg-0pky">Tuần tự: Conv2dTranspose, huấn luyện với số epoch cao hơn. Song song:Activation("sigmoid"), Conv2D</td>
     <td class="tg-kgv7"><span style="color:#000">Võ Ngọc Minh</span></td>
     <td class="tg-kgv7"><span style="color:#000">100%</span></td>
   </tr>
