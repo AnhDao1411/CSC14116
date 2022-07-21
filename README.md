@@ -77,6 +77,20 @@
     <td class="tg-kgv7"><span style="color:#000">100%</span></td>
   </tr>
 </tbody>
+<tbody>
+  <tr>
+    <td class="tg-9hil" rowspan="2">Tuần 10</td>
+    <td class="tg-9wq8" rowspan="2">Hoàn thành code song song, chỉnh sửa báo cáo (thiết kế và đánh giá)</td>
+    <td class="tg-0pky">Song song: mô hình U-Net</td>
+    <td class="tg-kgv7"><span style="color:#000">Nguyễn Thị Anh Đào</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Song song: conv2DTranspose</td>
+    <td class="tg-kgv7"><span style="color:#000">Võ Ngọc Minh</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+  </tr>
+</tbody>
 </table>
 
 - Link Google Colab: https://colab.research.google.com/drive/1-0eELNj4OzvGRommAJqRQeps2ZqqMvG8?usp=sharing
