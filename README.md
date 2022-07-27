@@ -91,6 +91,20 @@
     <td class="tg-kgv7"><span style="color:#000">100%</span></td>
   </tr>
 </tbody>
+<tbody>
+  <tr>
+    <td class="tg-9hil" rowspan="2">Tuần 11</td>
+    <td class="tg-9wq8" rowspan="2">Hoàn thành 2 phiên bản tối ưu song song cho layer Conv2D, hoàn thiện báo cáo</td>
+    <td class="tg-0pky">Code tối ưu song song</td>
+    <td class="tg-kgv7"><span style="color:#000">Cả nhóm</span></td>
+    <td class="tg-kgv7"><span style="color:#000">%</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Hoàn thiện báo cáo</td>
+    <td class="tg-kgv7"><span style="color:#000">Cả nhóm</span></td>
+    <td class="tg-kgv7"><span style="color:#000">%</span></td>
+  </tr>
+</tbody>
 </table>
 
 - Link Google Colab: https://colab.research.google.com/drive/1-0eELNj4OzvGRommAJqRQeps2ZqqMvG8?usp=sharing
