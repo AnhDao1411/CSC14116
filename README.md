@@ -5,6 +5,8 @@
 |---|---|---|
 |**18127272**|**Nguyễn Thị Anh Đào**| **https://github.com/AnhDao1411** |
 
+[Link Google Colab](https://colab.research.google.com/drive/1lB708tJYVGvxVR8zHU0t9Vga1qUNltQE#scrollTo=krAtc1UobLAH)
+
 ### Kế hoạch tuần
 <table class="tg">
 <thead>
@@ -107,4 +109,4 @@
 </tbody>
 </table>
 
-- [Link Google Colab](https://colab.research.google.com/drive/1lB708tJYVGvxVR8zHU0t9Vga1qUNltQE#scrollTo=krAtc1UobLAH)
+
