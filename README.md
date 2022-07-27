@@ -107,4 +107,4 @@
 </tbody>
 </table>
 
-- Link Google Colab: https://colab.research.google.com/drive/1-0eELNj4OzvGRommAJqRQeps2ZqqMvG8?usp=sharing
+- [Link Google Colab](https://colab.research.google.com/drive/1lB708tJYVGvxVR8zHU0t9Vga1qUNltQE#scrollTo=krAtc1UobLAH)
