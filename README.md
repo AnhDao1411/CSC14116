@@ -5,7 +5,7 @@
 |---|---|---|
 |**18127272**|**Nguyễn Thị Anh Đào**| **https://github.com/AnhDao1411** |
 
-[Link Google Colab](https://colab.research.google.com/drive/1QzYj1bp_u3kgYzwW5vtlShwOsPZrL_vF?usp=sharing)
+[Link Google Colab](https://colab.research.google.com/drive/17soGoQDTjSb0YAmjNgCPFCX4Xjt9zh1H?usp=sharing)
 
 ### Kế hoạch tuần
 <table class="tg">
