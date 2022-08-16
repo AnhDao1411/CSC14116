@@ -5,7 +5,7 @@
 |---|---|---|
 |**18127272**|**Nguyễn Thị Anh Đào**| **https://github.com/AnhDao1411** |
 
-[Link Google Colab](https://colab.research.google.com/drive/1cphBQ9PQp2npK-IgRXovZWVXJ_-QjS7f?authuser=1#scrollTo=An2kDDXNCFPn)
+[Link Google Colab](https://colab.research.google.com/drive/1QzYj1bp_u3kgYzwW5vtlShwOsPZrL_vF?usp=sharing)
 
 ### Kế hoạch tuần
 <table class="tg">
@@ -102,6 +102,13 @@
     <td class="tg-kgv7"><span style="color:#000">50%</span></td>
   </tr>
 </tbody>
+<tbody>
+  <tr>
+    <td class="tg-9hil" rowspan="2">Tuần 12</td>
+    <td class="tg-9wq8" rowspan="2">Hoàn thành 2 phiên bản tối ưu song song cho mô hình Unet</td>
+    <td class="tg-0pky">Tối ưu code song song</td>
+    <td class="tg-kgv7"><span style="color:#000">Cả nhóm</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+  </tr>
+</tbody>
 </table>
-
-
